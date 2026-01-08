@@ -43,10 +43,10 @@ http://<bucket-name>.s3-website-<region>.amazonaws.com
 
 ## URLs
 
-- S3 Website URL: [UPDATE WITH YOUR ENDPOINT]
-  - Example: `http://gym-static-webproject-nitish.s3-website.ap-south-1.amazonaws.com/`
-- CloudFront URL: [UPDATE WITH YOUR DISTRIBUTION DOMAIN]
-  - Example: `https://d1dnwdp8sgoruv.cloudfront.net/`
+- S3 Website URL: http://gym-static-webproject-nitish.s3-website.ap-south-1.amazonaws.com/
+
+- CloudFront URL: https://d1dnwdp8sgoruv.cloudfront.net/
+  
 
 ## Quick checks
 
