@@ -17,10 +17,10 @@ A comprehensive learning guide for AWS cloud architecture fundamentals, structur
 ### [Day 1](./Day_1/README.md)
 Foundation concepts and core AWS services introduction.
 
-### [Day 2](./Day_2/README.md)
+### [Day 2](./Day_2/Readme.md)
 Building upon fundamentals with architectural patterns and design principles.
 
-### [Day 3](./Day_3/README.md)
+### [Day 3](./Day_3/Readme.md)
 Advanced architecture strategies and real-world implementation scenarios.
 
 ## 🎯 Overview
